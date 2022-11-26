@@ -1,0 +1,19 @@
+Version 1.0
+
+This is built on version 4.6.0-dev of the [Pokémon Randomizer](https://github.com/Ajarmar/universal-Pokemon-randomizer-zx/releases). It includes some features which are not in the last official release.
+
+Added tweaks:
+- Force Highest Level Encounters: All wild pokemon will appear at only the highest level they can appear at. Requires Area 1-to-1 encounters, no additional rule.
+- Increase Base Friendship: base friendship for all pokemon is increased to 215. (220 is required to evolve, so it will require a small amount of friendship grinding.) Requires random evolutions.
+- Revert Resist Berries: type resistance berries such as Occa Berry are considered bad items, and no longer show up. Requires random field items.
+- Remove Banned Mons From Lab: prevents legendaries and anything 600+ BST from being a starter.
+- HM Moves by Levelup: HM moves are now available to be learned by levelup. (If you use this, make sure not to use them in the field if you don't have the HM item, or this can allow for sequence breaking.)
+- Ban Unown From Wild: Unown cannot appear in the wild. Used in FRLG and HGSS, where it can't appear until certain puzzles are solved and therefore wastes an encounter slot.
+- Ban Perish Song: Perish Song can no longer be learned by levelup. (It can still be a TM.)
+- Ban Imposter: Pokemon can no longer have the Imposter ability.
+- Fix Mythical Pokemon Experience: Mew, Celebi, and Shaymin have 215 base experience, in line with other legendaries.
+- Double % Increase: Trainer and wild pokemon % increase is doubled. (Intended for Emerald, which requires two randomizations due to the +60% rule.)
+
+The randomizer currently works with all games from gens 3-6. If you want it for 1, 2, or 7, let me know (Something_Smart#8109 on Discord).
+
+You are free to use this randomizer for any variant of Ironmon you want. But, keep in mind that many of these change the challenge, so you should put an asterisk with your run or otherwise indicate the rule changes.
