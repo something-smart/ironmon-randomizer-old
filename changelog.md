@@ -8,7 +8,7 @@ Added tweaks:
 - Revert Resist Berries: type resistance berries such as Occa Berry are considered bad items, and no longer show up. Requires random field items.
 - Remove Banned Mons From Lab: prevents legendaries and anything 600+ BST from being a starter.
 - HM Moves by Levelup: HM moves are now available to be learned by levelup. (If you use this, make sure not to use them in the field if you don't have the HM item, or this can allow for sequence breaking.)
-- Ban Unown From Wild: Unown cannot appear in the wild. Used in FRLG and HGSS, where it can't appear until certain puzzles are solved and therefore wastes an encounter slot.
+- Ban Unown From Wild: Unown cannot appear in the wild. Used in HGSS, where it can't appear until certain puzzles are solved and therefore wastes an encounter slot.
 - Ban Perish Song: Perish Song can no longer be learned by levelup. (It can still be a TM.)
 - Ban Imposter: Pokemon can no longer have the Imposter ability.
 - Fix Mythical Pokemon Experience: Mew, Celebi, and Shaymin have 215 base experience, in line with other legendaries.
@@ -17,3 +17,14 @@ Added tweaks:
 The randomizer currently works with all games from gens 3-6. If you want it for 1, 2, or 7, let me know (Something_Smart#8109 on Discord).
 
 You are free to use this randomizer for any variant of Ironmon you want. But, keep in mind that many of these change the challenge, so you should put an asterisk with your run or otherwise indicate the rule changes.
+
+Version 1.1
+
+Changed tweaks:
+- Ban Unown From Wild works in FRLG too.
+
+Added tweaks:
+- 100% Non-Gym TMs: All TMs aside from those received from gyms will have full compatibility. Requires randomized TM compatibility of some kind. (Messes up Move Tutors, so don't use it if you care about those.)
+- Rebalance Encounters: Wild encounters will still be available at the same levels, but the encounters and levels will be distributed to be more uniform. Requires Area 1-to-1 encounters, no additional rule, with Force Highest Level Encounters off.
+
+The randomizer is now uploaded in a zip file, hopefully this should make people's antivirus less mad.
