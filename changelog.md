@@ -1,3 +1,18 @@
+Version 1.2
+Changed tweaks:
+- Rebalance Encounters: When Random Encounters are used (e.g. for Black/White Kaizo), this will move the highest-leveled encounters to the top of the encounter table, making them the most likely.
+
+Version 1.1
+
+Changed tweaks:
+- Ban Unown From Wild works in FRLG too.
+
+Added tweaks:
+- 100% Non-Gym TMs: All TMs aside from those received from gyms will have full compatibility. Requires randomized TM compatibility of some kind. (Messes up Move Tutors, so don't use it if you care about those.)
+- Rebalance Encounters: Wild encounters will still be available at the same levels, but the encounters and levels will be distributed to be more uniform. Requires Area 1-to-1 encounters, no additional rule, with Force Highest Level Encounters off.
+
+The randomizer is now uploaded in a zip file, hopefully this should make people's antivirus less mad.
+
 Version 1.0
 
 This is built on version 4.6.0-dev of the [Pokémon Randomizer](https://github.com/Ajarmar/universal-Pokemon-randomizer-zx/releases). It includes some features which are not in the last official release.
@@ -17,14 +32,3 @@ Added tweaks:
 The randomizer currently works with all games from gens 3-6. If you want it for 1, 2, or 7, let me know (Something_Smart#8109 on Discord).
 
 You are free to use this randomizer for any variant of Ironmon you want. But, keep in mind that many of these change the challenge, so you should put an asterisk with your run or otherwise indicate the rule changes.
-
-Version 1.1
-
-Changed tweaks:
-- Ban Unown From Wild works in FRLG too.
-
-Added tweaks:
-- 100% Non-Gym TMs: All TMs aside from those received from gyms will have full compatibility. Requires randomized TM compatibility of some kind. (Messes up Move Tutors, so don't use it if you care about those.)
-- Rebalance Encounters: Wild encounters will still be available at the same levels, but the encounters and levels will be distributed to be more uniform. Requires Area 1-to-1 encounters, no additional rule, with Force Highest Level Encounters off.
-
-The randomizer is now uploaded in a zip file, hopefully this should make people's antivirus less mad.
