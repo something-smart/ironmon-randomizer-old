@@ -1,4 +1,5 @@
 Version 1.2
+
 Changed tweaks:
 - Rebalance Encounters: When Random Encounters are used (e.g. for Black/White Kaizo), this will move the highest-leveled encounters to the top of the encounter table, making them the most likely.
 
