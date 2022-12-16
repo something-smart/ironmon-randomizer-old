@@ -1,3 +1,10 @@
+Version 1.3
+
+Changed tweaks:
+- Increase Base Friendship: renamed to Speed Up Friendship Evos. Functionally unchanged, but in the future this may be changed to reduce the friendship required for pokemon to evolve, instead of increasing the base friendship. Requires the tracker to be updated first, though.
+- Revert Resist Berries: changed to Revert Bad Berries. It now properly bans all berries that are banned by the 4.4 randomizer.
+- Ban Imposter: changed to Lock Imposter to Ditto. It now prevents any pokemon besides Ditto from having Imposter, and guarantees that Ditto will always have Imposter.
+
 Version 1.2
 
 Changed tweaks:
