@@ -1,3 +1,10 @@
+Version 1.4
+
+Changed tweaks:
+- Ban Unown From Wild: This is no longer available in FRLG, as FRLG already bans Unown from wild by default.
+
+Additionally, the launchers have been included in the zip file.
+
 Version 1.3
 
 Changed tweaks:
