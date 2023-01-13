@@ -30,3 +30,4 @@
 | If you run out of balls after being forced to pivot, can you leave the route (without healing) to buy balls? Can you buy balls of any type? What if the route is a dungeon? | I think yes to all
 | Can you use a forced heal in a dungeon immediately before leaving it? (I know you can't get the item in Pokemon Tower. Another example is fighting the Doctor last in the sewers in BW2) | No
 | Can you use the white/black flutes? (They increase/decrease encounter rate) | Yes
+| Can you kill static pokemon you can catch, but can't run from (e.g. electrodes in rocket hideout)? | Yes
