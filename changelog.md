@@ -1,3 +1,10 @@
+Version 1.5
+
+Changed tweaks: 
+- Speed Up Friendship Evos: In Black/White, this sets base friendship to 207 instead of 215, to decrease the chance that the starter evolves before N.
+
+Additionally, the randomizer now always outputs move data in the log. This allows the newest version of the NDS Tracker to work if your ROM has customized move names.
+
 Version 1.4
 
 Changed tweaks:
