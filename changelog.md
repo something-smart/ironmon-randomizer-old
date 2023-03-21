@@ -1,3 +1,11 @@
+Version 1.6
+
+Changed tweaks:
+- Rebalance Encounters and Force Highest Level Encounters are now compatible.
+- Revert Bad Berries now also bans these berries from showing up as wild held items or via Pickup.
+
+Additionally, with the release of the official 4.6.0 randomizer: added support for randomizing Steven's team in the Mossdeep double in Emerald, and added support for held item randomization in DPPt and gen 6.
+
 Version 1.5
 
 Changed tweaks: 
