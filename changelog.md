@@ -1,3 +1,7 @@
+Version 1.6.1
+
+Fixed an error with the Java Version. If you were able to use it before, it should still run now... but let me know if there are issues. This was kind of a weird error that came out of nowhere.
+
 Version 1.6
 
 Changed tweaks:
