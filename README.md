@@ -6,4 +6,4 @@ You are free to use this for whatever you want. However, if you're playing Ironm
 
 This repo also contains a ruleset called Meteor Kaizo that I (something_smart) am developing, with the intent to show off some of the new changes and make a slightly easier and more exciting Kaizo experience.
 
-I have no opposition to uploading the code, I am just lazy. I will do it at some point. Feel free to bother me on Discord (Something_Smart#8109) for that, or for any issues or feature requests.
+Source here: https://github.com/something-smart/ironmon-randomizer-source
